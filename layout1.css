@@ -1,0 +1,35 @@
+.pink
+{
+    width: 150px;
+    height: 150px;
+    background-color: #EA9999;
+    margin-bottom: 20px;
+}
+
+.blue
+{
+    width: 553px;
+    height: 150px;
+    background-color: #9FC5F8;
+    margin-bottom: 20px;
+}
+
+.yellow
+{
+    width: 723px;
+    height: 145px;
+    background-color: #FFE599;
+    margin-bottom: 20px;
+}
+
+.row1
+{
+    display: flex;
+    gap: 20px;
+}
+
+.row2
+{
+    display: flex;
+    gap: 20px;
+}

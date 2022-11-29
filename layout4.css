@@ -1,0 +1,37 @@
+.green
+{
+    width: 828px;
+    height: 145px;
+    background-color: #B7CFB7;
+    margin: 10px;
+}
+
+.pink
+{
+    width: 828px;
+    height: 145px;
+    background-color: #F3B0C2;  
+    margin: 10px; 
+}
+
+.orange
+{
+    width: 828px;
+    height: 145px;
+    background-color: #E6BC87;
+    margin: 10px;
+}
+
+.sidebar
+{
+    width: 300px;
+    height: 555px;
+    background-color: #55CBCD;
+    opacity: 0.5;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+}
